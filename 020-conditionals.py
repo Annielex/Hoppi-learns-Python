@@ -8,6 +8,7 @@ elif province == "Ontario":
 else:
     tax = 0.15
 
+
 # Truth table for OR:
 #   first condition   second condition    condition evaluates as
 #   TRUE                TRUE                TRUE
